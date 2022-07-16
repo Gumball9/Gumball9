@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gumball9)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gumball9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gumball9"/>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
